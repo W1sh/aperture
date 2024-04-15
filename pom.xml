@@ -15,7 +15,7 @@
         <maven.compiler.target>19</maven.compiler.target>
 
         <junit.version>5.10.2</junit.version>
-        <slf4j.version>2.0.12</slf4j.version>
+        <slf4j.version>2.0.13</slf4j.version>
         <mockito.version>5.10.0</mockito.version>
         <javax.annotation.version>1.3.2</javax.annotation.version>
         <jetbrains.annotations.version>24.0.1</jetbrains.annotations.version>
